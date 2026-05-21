@@ -19,7 +19,7 @@ Gunakan sidebar di sebelah kiri untuk berpindah halaman dan melakukan filter.
 st.divider()
 
 # LAYOUT 2 KOLOM
-col1, col2 = st.columns([2, 1])
+col1, col2 = st.columns([1, 2])
 
 # KOLOM KIRI
 with col1:
